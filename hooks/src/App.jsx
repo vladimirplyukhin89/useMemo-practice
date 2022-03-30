@@ -1,4 +1,3 @@
-import "./styles.css";
 import Checkbox from "./Checkbox";
 import WordCount from "./WordCount";
 
